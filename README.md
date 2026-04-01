@@ -31,7 +31,8 @@ We found that a crucial objective of first/second year oriented activities held 
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/16857c26-86a9-4668-82c5-1cc760cbf9fb
+View your app in AI Studio: https://aistudio.google.com/apps/16857c26-86a9-4668-82c5-1cc760cbf9fb?showAssistant=true&showPreview=true&fullscreenApplet=true
+
 
 ## Run Locally
 
