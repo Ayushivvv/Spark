@@ -27,11 +27,10 @@ We are investigating the emotional impact that first- and second-year university
 
 We found that a crucial objective of first/second year oriented activities held by the university integrates engaging within the full university life and developing a sense of belonging through meaningful social connections. These early years are often when students form their first impressions of whether they “fit” within the university environment. When connections are formed during this period, they tend to create familiarity, comfort, and confidence over time. Conversely, when students struggle to sustain early social interactions, the experience is often internalized as personal failure, leading to emotional withdrawal and a reduced willingness to engage. Reflecting on our own transition into the third year, we observed that many enduring friendships and familiar social circles had already been established within the first two years. This highlights how early social experiences can quietly shape the remainder of a student’s university journey. These social engagements shape more meaningful experiences that foster long-term academic and professional participation. So the initial aspect of developing their social selves and maintaining those relationships is where we want to help and make it easier to maintain.
 
-# Run and deploy your AI Studio app
+# Run with direct Studio app
 
-This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://aistudio.google.com/apps/16857c26-86a9-4668-82c5-1cc760cbf9fb?showAssistant=true&showPreview=true&fullscreenApplet=true
+View the app in Studio: https://aistudio.google.com/apps/16857c26-86a9-4668-82c5-1cc760cbf9fb?showAssistant=true&showPreview=true&fullscreenApplet=true
 
 
 ## Run Locally
